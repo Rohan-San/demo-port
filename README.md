@@ -1,2 +1,2 @@
 # demo-port
-Testing out a portfolio using React
+Testing out a portfolio using React.js
